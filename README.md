@@ -35,13 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavi2311&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi2311&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavi2311&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+
